@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 
 #### **Frontend**
-- Angular 20+, TypeScript, HTML5, CSS3, SCSS, TailwindCSS
+- Angular 20+, TypeScript, HTML5, CSS3, SCSS, Bootstrap
 - State Management, Route Guards, Interceptors, Lazy Loading
 - Responsive Design, JWT Authentication Integration
 
